@@ -1,0 +1,36 @@
+/* style.css -- small custom styles to match site look and spacing */
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  background-color: #f6f7fb;
+  color: #222;
+}
+.container-card {
+  background: #ffffff;
+  border-radius: 6px;
+  padding: 24px;
+  box-shadow: 0 4px 18px rgba(12, 30, 50, 0.06);
+  margin-top: 40px;
+}
+.form-label {
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+.form-control {
+  border-radius: 4px;
+  height: 44px;
+}
+.btn-primary {
+  background-color: #1155cc;
+  border-color: #0f4fb4;
+}
+.progress {
+  height: 8px;
+  border-radius: 4px;
+}
+.small-muted {
+  color: #6b6f76;
+  font-size: 0.9rem;
+}
+@media (max-width: 576px) {
+  .container-card { padding: 16px; margin-top: 20px; }
+}
