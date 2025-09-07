@@ -73,11 +73,17 @@ Open in browser:
 (Add screenshots of each checkout step here if available)
 Example:
 
-screenshots/page1.png → Customer Info
+1.png→ Customer Info
 
-screenshots/page2.png → Payment Info
+2.png → Payment Info
 
-screenshots/page3.png → Review & Confirm
+3.png → Review & Confirm
+
+4.png → Submit
+
+Data-Base-1.png → Database Show Name
+
+Data-Base-2.png → Database Show Card Info.
 
 📝 Notes
 
@@ -103,8 +109,4 @@ Kripalsinh Gohil
 📱 Mobile: +91 63553 58991
 
 
----
 
-⚡ Ready to upload this as `README.md` in your GitHub repo.  
-
-Do you also want me to prepare a **short GitHub repo description (one-liner)** for the repository settings (appears under repo name)?
