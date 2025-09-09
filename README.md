@@ -103,10 +103,5 @@ Improvements if more time: Add validation, sanitization, and error handling; enc
 
 👨‍💻 Author
 
-Kripalsinh Gohil
-📧 Email: kripalsinh132004@gmail.com
-
-📱 Mobile: +91 63553 58991
-
 
 
